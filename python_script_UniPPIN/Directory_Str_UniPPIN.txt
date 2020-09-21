@@ -1,0 +1,13 @@
+BioGRID
+BioPlex
+DIP
+HeinMS
+hprd
+hspn
+HUMAN_9606_idmapping_selected.tab
+IntAct
+Metazoan
+String-DB
+UniprotIDmapping
+vidal
+vidal14
