@@ -70,7 +70,6 @@ def find_ShortLoopCommonality(aDic,loopPairs,loopHomName,cutoff) :
 	fout=open(loopHomName,'w')
 	
 	for idx in range(0,len(keyList)) :
-		print(idx)
 		for jdx in range(idx+1,len(keyList)) :
 			rt_str=comp2sets(aDic,loopPairs,keyList[idx],keyList[jdx],cutoff)
 			if rt_str is not None and len(rt_str) > 0:
@@ -84,9 +83,8 @@ def find_randSLC(aDic,loopPairs,rand_size,cutoff) :
 	comm_cnt=0
 	
 	for idx in range(0,rand_size) :
-		print(idx)
 		for jdx in range(idx+1,len(keyList)) :
-				rt_str=comp2sets(aDic,loopPairs,keyList[idx],keyList[jdx],cutoff)
+			rt_str=comp2sets(aDic,loopPairs,keyList[idx],keyList[jdx],cutoff)
 			if rt_str is not None and len(rt_str) > 0:
 				comm_cnt=comm_cnt+1
 

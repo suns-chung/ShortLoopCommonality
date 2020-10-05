@@ -42,4 +42,10 @@ def find_shortloops(pAdjList, length) :
 		return rt_loop4
 
 
+def writeLoopSets2File(foutname, aSet) :
+    fwriter=open(foutname,'w')
+    for anItem in aSet :
+        fwriter.write(','.join(anItem)+'\n')
+    fwriter.close()
+
 

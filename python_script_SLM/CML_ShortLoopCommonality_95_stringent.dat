@@ -1,0 +1,3 @@
+P51692, P11274 : set([frozenset(['Q06124', 'P10721']), frozenset(['Q06124', 'P29353']), frozenset(['P29353', 'P10721']), frozenset(['P29353', 'P22681']), frozenset(['P29353', 'O60674']), frozenset(['P22681', 'P10721']), frozenset(['Q06124', 'P22681']), frozenset(['Q06124', 'O60674']), frozenset(['O60674', 'P10721'])])
+Q01484, Q8IWS0 : set([frozenset(['Q00839', 'Q9BQE3']), frozenset(['Q09028', 'P06748']), frozenset(['Q9BQE3', 'P06748']), frozenset(['Q00839', 'P06748'])])
+P04637, Q8IWS0 : set([frozenset(['Q00839', 'Q9BQE3']), frozenset(['Q09028', 'P06748']), frozenset(['Q9BQE3', 'P06748']), frozenset(['Q00839', 'P06748'])])
