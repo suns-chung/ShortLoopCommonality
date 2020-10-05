@@ -1,6 +1,6 @@
 # PPINs
 
-Protein-protein interaction in sif file format
+Protein-protein interaction networks in sif file format
 
 # ShortLoop_Len3
 
