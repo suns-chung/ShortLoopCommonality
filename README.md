@@ -1,5 +1,7 @@
 # Short loop functional commonality identified in leukaemia proteome highlights crucial protein sub-networks
 
+![graphical_abstract](./ShortLoop_NARGAB.png)
+
 ## Supplementary data
 
 Each directory has the following information:
